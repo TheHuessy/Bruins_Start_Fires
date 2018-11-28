@@ -1,0 +1,83 @@
+GP,Date,,Opponent,GF,GA,,,W,L,OL,Streak
+1,2014-10-08,,Philadelphia Flyers,2,1,W,,1,0,0,W 1
+2,2014-10-09,@,Detroit Red Wings,1,2,L,,1,1,0,L 1
+3,2014-10-11,,Washington Capitals,0,4,L,,1,2,0,L 2
+4,2014-10-13,,Colorado Avalanche,1,2,L,,1,3,0,L 3
+5,2014-10-15,@,Detroit Red Wings,3,2,W,SO,2,3,0,W 1
+6,2014-10-16,@,Montreal Canadiens,4,6,L,,2,4,0,L 1
+7,2014-10-18,@,Buffalo Sabres,4,0,W,,3,4,0,W 1
+8,2014-10-21,,San Jose Sharks,5,3,W,,4,4,0,W 2
+9,2014-10-23,,New York Islanders,2,3,L,,4,5,0,L 1
+10,2014-10-25,@,Toronto Maple Leafs,4,1,W,,5,5,0,W 1
+11,2014-10-28,,Minnesota Wild,3,4,L,,5,6,0,L 1
+12,2014-10-30,@,Buffalo Sabres,3,2,W,OT,6,6,0,W 1
+13,2014-11-01,,Ottawa Senators,4,2,W,,7,6,0,W 2
+14,2014-11-04,,Florida Panthers,2,1,W,OT,8,6,0,W 3
+15,2014-11-06,,Edmonton Oilers,5,2,W,,9,6,0,W 4
+16,2014-11-10,,New Jersey Devils,4,2,W,,10,6,0,W 5
+17,2014-11-12,@,Toronto Maple Leafs,1,6,L,,10,7,0,L 1
+18,2014-11-13,@,Montreal Canadiens,1,5,L,,10,8,0,L 2
+19,2014-11-15,,Carolina Hurricanes,2,1,W,,11,8,0,W 1
+20,2014-11-18,,St. Louis Blues,2,0,W,,12,8,0,W 2
+21,2014-11-21,@,Columbus Blue Jackets,4,3,W,SO,13,8,0,W 3
+22,2014-11-22,,Montreal Canadiens,0,2,L,,13,9,0,L 1
+23,2014-11-24,,Pittsburgh Penguins,2,3,L,OT,13,9,1,L 2
+24,2014-11-28,,Winnipeg Jets,2,1,W,OT,14,9,1,W 1
+25,2014-12-01,@,Anaheim Ducks,2,3,L,,14,10,1,L 1
+26,2014-12-02,@,Los Angeles Kings,0,2,L,,14,11,1,L 2
+27,2014-12-04,@,San Jose Sharks,4,7,L,,14,12,1,L 3
+28,2014-12-06,@,Arizona Coyotes,5,2,W,,15,12,1,W 1
+29,2014-12-11,,Chicago Blackhawks,2,3,L,,15,13,1,L 1
+30,2014-12-13,,Ottawa Senators,2,3,L,SO,15,13,2,L 2
+31,2014-12-16,@,Nashville Predators,2,3,L,SO,15,13,3,L 3
+32,2014-12-17,@,Minnesota Wild,3,2,W,OT,16,13,3,W 1
+33,2014-12-19,@,Winnipeg Jets,1,2,L,,16,14,3,L 1
+34,2014-12-21,,Buffalo Sabres,4,3,W,OT,17,14,3,W 1
+35,2014-12-23,,Nashville Predators,5,3,W,,18,14,3,W 2
+36,2014-12-27,@,Columbus Blue Jackets,2,6,L,,18,15,3,L 1
+37,2014-12-29,,Detroit Red Wings,5,2,W,,19,15,3,W 1
+38,2014-12-31,,Toronto Maple Leafs,3,4,L,SO,19,15,4,L 1
+39,2015-01-03,,Ottawa Senators,2,3,L,OT,19,15,5,L 2
+40,2015-01-04,@,Carolina Hurricanes,1,2,L,SO,19,15,6,L 3
+41,2015-01-07,@,Pittsburgh Penguins,3,2,W,OT,20,15,6,W 1
+42,2015-01-08,,New Jersey Devils,3,0,W,,21,15,6,W 2
+43,2015-01-10,@,Philadelphia Flyers,3,1,W,,22,15,6,W 3
+44,2015-01-13,,Tampa Bay Lightning,4,3,W,,23,15,6,W 4
+45,2015-01-15,,New York Rangers,3,0,W,,24,15,6,W 5
+46,2015-01-17,,Columbus Blue Jackets,1,3,L,,24,16,6,L 1
+47,2015-01-20,@,Dallas Stars,3,1,W,,25,16,6,W 1
+48,2015-01-21,@,Colorado Avalanche,2,3,L,SO,25,16,7,L 1
+49,2015-01-29,@,New York Islanders,5,2,W,,26,16,7,W 1
+50,2015-01-31,,Los Angeles Kings,3,1,W,,27,16,7,W 2
+51,2015-02-04,@,New York Rangers,2,3,L,,27,17,7,L 1
+52,2015-02-07,,New York Islanders,2,1,W,,28,17,7,W 1
+53,2015-02-08,,Montreal Canadiens,1,3,L,,28,18,7,L 1
+54,2015-02-10,,Dallas Stars,3,5,L,,28,19,7,L 2
+55,2015-02-13,@,Vancouver Canucks,2,5,L,,28,20,7,L 3
+56,2015-02-16,@,Calgary Flames,3,4,L,OT,28,20,8,L 4
+57,2015-02-18,@,Edmonton Oilers,3,4,L,SO,28,20,9,L 5
+58,2015-02-20,@,St. Louis Blues,1,5,L,,28,21,9,L 6
+59,2015-02-22,@,Chicago Blackhawks,6,2,W,,29,21,9,W 1
+60,2015-02-24,,Vancouver Canucks,1,2,L,,29,22,9,L 1
+61,2015-02-27,@,New Jersey Devils,3,2,W,OT,30,22,9,W 1
+62,2015-02-28,,Arizona Coyotes,4,1,W,,31,22,9,W 2
+63,2015-03-05,,Calgary Flames,3,4,L,SO,31,22,10,L 1
+64,2015-03-07,,Philadelphia Flyers,3,2,W,OT,32,22,10,W 1
+65,2015-03-08,,Detroit Red Wings,5,3,W,,33,22,10,W 2
+66,2015-03-10,@,Ottawa Senators,3,1,W,,34,22,10,W 3
+67,2015-03-12,,Tampa Bay Lightning,3,2,W,SO,35,22,10,W 4
+68,2015-03-14,@,Pittsburgh Penguins,2,0,W,,36,22,10,W 5
+69,2015-03-15,@,Washington Capitals,0,2,L,,36,23,10,L 1
+70,2015-03-17,,Buffalo Sabres,1,2,L,SO,36,23,11,L 2
+71,2015-03-19,@,Ottawa Senators,4,6,L,,36,24,11,L 3
+72,2015-03-21,@,Florida Panthers,1,2,L,SO,36,24,12,L 4
+73,2015-03-22,@,Tampa Bay Lightning,3,5,L,,36,25,12,L 5
+74,2015-03-26,,Anaheim Ducks,2,3,L,OT,36,25,13,L 6
+75,2015-03-28,,New York Rangers,4,2,W,,37,25,13,W 1
+76,2015-03-29,@,Carolina Hurricanes,2,1,W,OT,38,25,13,W 2
+77,2015-03-31,,Florida Panthers,3,2,W,,39,25,13,W 3
+78,2015-04-02,@,Detroit Red Wings,3,2,W,,40,25,13,W 4
+79,2015-04-04,,Toronto Maple Leafs,2,1,W,SO,41,25,13,W 5
+80,2015-04-08,@,Washington Capitals,0,3,L,,41,26,13,L 1
+81,2015-04-09,@,Florida Panthers,2,4,L,,41,27,13,L 2
+82,2015-04-11,@,Tampa Bay Lightning,2,3,L,SO,41,27,14,L 3
